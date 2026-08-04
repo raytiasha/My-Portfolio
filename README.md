@@ -2,9 +2,9 @@
 
 Welcome to my data portfolio! Here's a collection of my data analysis projects.
 
-| Project Link | Description |
-| --- | --- |
-| [Olist's Operational Performance Analysis](https://github.com/raytiasha/Olist-operational-efficiency-and-customer-fulfillment-performance) | Providing operational insights into fulfillment and delivery bottlenecks, the effects of demand fluctuations on performance, and the impact of delivery delays on customer satisfaction. |
+| Project Link | Description | Article |
+| --- | --- | --- |
+| [Olist's Operational Performance Analysis](https://github.com/raytiasha/Olist-operational-efficiency-and-customer-fulfillment-performance) | Providing operational insights into fulfillment and delivery bottlenecks, the effects of demand fluctuations on performance, and the impact of delivery delays on customer satisfaction. | [Blog](https://www.linkedin.com/pulse/building-e-commerce-operations-dashboard-sql-power-bi-tiasha-ray-ikc9c) |
 
 
 Below are a few more projects for fun and for self-learning.
